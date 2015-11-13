@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>FLAMINGO @ MARYLAND</name>
+		<Placemark>
+			<name>Flamingo @ Maryland</name>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.13784259999998,36.1145678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NBR</name>
+			<description><![CDATA[RIGHT TURN TO E FLAMINGO]]></description>
+			<styleUrl>#line-DB4436-4</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1377353,36.1142883,0.0 -115.137738,36.1143598,0.0 -115.137738,36.1144096,0.0 -115.1377273,36.1144464,0.0 -115.13769240000002,36.1144551,0.0 -115.1376441,36.1144573,0.0 -115.13756100000002,36.1144594,0.0 -115.1375234,36.1144594,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBT</name>
+			<description><![CDATA[STRAIGHT ON S MARYLAND]]></description>
+			<styleUrl>#line-3F5BA9-3</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1377581,36.1142948,0.0 -115.13776750000001,36.1145115,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBL</name>
+			<description><![CDATA[LEFT TURN ON E FLAMINGO]]></description>
+			<styleUrl>#line-009D57-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13782520000001,36.114324,0.0 -115.1378319,36.11443560000001,0.0 -115.137848,36.1144963,0.0 -115.13787610000001,36.1145548,0.0 -115.1379029,36.1146014,0.0 -115.1379512,36.114635,0.0 -115.13802770000001,36.1146512,0.0 -115.13816449999999,36.1146566,0.0 -115.1382516,36.1146577,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>CAMERA Device ID: 2133, IP: 10.8.3.52</name>
+			<styleUrl>#poly-FFDD5E-1-255-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>-115.1376387,36.1143782,0.0 -115.13763610000001,36.1143544,0.0 -115.13759179999998,36.1143554,0.0 -115.13759179999998,36.1143793,0.0 -115.1376387,36.1143782,0.0</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>NBR</name>
+			<description><![CDATA[RIGHT TURN ON S MARYLAND]]></description>
+			<styleUrl>#line-DB4436-3</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.138265,36.1144789,0.0 -115.13811890000001,36.1144746,0.0 -115.138029,36.1144454,0.0 -115.13796730000001,36.1143955,0.0 -115.13795260000002,36.114324,0.0 -115.1379512,36.1142894,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBT</name>
+			<description><![CDATA[STRAIGHT ON E FLAMINGO]]></description>
+			<styleUrl>#line-3F5BA9-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1382999,36.1145234,0.0 -115.13788420000002,36.1145234,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBL</name>
+			<description><![CDATA[LEFT ON S MARYLAND]]></description>
+			<styleUrl>#line-009D57-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13828650000002,36.114571,0.0 -115.1382034,36.1145656,0.0 -115.13810410000002,36.1145656,0.0 -115.1379888,36.1145656,0.0 -115.13792440000002,36.1145775,0.0 -115.1378721,36.1146025,0.0 -115.13783590000001,36.1146295,0.0 -115.1378171,36.1147054,0.0 -115.13780370000002,36.1147791,0.0 -115.13779429999998,36.1148321,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBR</name>
+			<description><![CDATA[RIGHT ON E FLAMINGO]]></description>
+			<styleUrl>#line-DB4436-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13797670000001,36.1148993,0.0 -115.1379821,36.1148462,0.0 -115.13799280000002,36.1147726,0.0 -115.13801560000002,36.11473900000001,0.0 -115.13803570000002,36.1147184,0.0 -115.1380974,36.1147032,0.0 -115.13819659999999,36.1146989,0.0 -115.1382825,36.1146978,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBT</name>
+			<description><![CDATA[STRAIGHT ON S MARYLAND]]></description>
+			<styleUrl>#line-3F5BA9-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1379351,36.1148971,0.0 -115.1379311,36.1146263,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBL</name>
+			<description><![CDATA[LEFT ON E FLAMINGO]]></description>
+			<styleUrl>#line-009D57-1</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1378775,36.1148711,0.0 -115.1378788,36.1147866,0.0 -115.1378775,36.1147292,0.0 -115.13786140000002,36.11467290000001,0.0 -115.13783590000001,36.1146295,0.0 -115.13777419999998,36.1145938,0.0 -115.1376656,36.1145342,0.0 -115.137569,36.1145104,0.0 -115.1374631,36.1145104,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-009D57-3-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13781439999998,36.114818,0.0 -115.13779429999998,36.1148321,0.0 -115.1377715,36.1148169,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-009D57-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1374778,36.1145234,0.0 -115.1374631,36.1145104,0.0 -115.13747649999999,36.1144941,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-009D57-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13824090000001,36.114674,0.0 -115.1382516,36.1146577,0.0 -115.1382369,36.1146415,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-DB4436-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1375382,36.1144714,0.0 -115.1375234,36.1144594,0.0 -115.13753410000001,36.1144454,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-DB4436-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1379392,36.1142991,0.0 -115.1379512,36.1142894,0.0 -115.137962,36.1142969,0.0 -115.1379687,36.1143045,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-DB4436-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13827579999999,36.1147097,0.0 -115.1382825,36.1146978,0.0 -115.1382717,36.1146891,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBR</name>
+			<description><![CDATA[RIGHT ON S MARYLAND]]></description>
+			<styleUrl>#line-DB4436-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13742280000001,36.1147021,0.0 -115.13754490000001,36.1147021,0.0 -115.1376374,36.1147065,0.0 -115.13769370000001,36.1147184,0.0 -115.1377179,36.1147509,0.0 -115.137738,36.1147986,0.0 -115.1377407,36.1148105,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-DB4436-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1377514,36.1148007,0.0 -115.1377407,36.1148105,0.0 -115.13772460000001,36.114805100000005,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-3F5BA9-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1377809,36.1145028,0.0 -115.13776750000001,36.1145115,0.0 -115.1377514,36.1144995,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-3F5BA9-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1378949,36.1145353,0.0 -115.13788420000002,36.1145234,0.0 -115.13789359999998,36.1145136,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-3F5BA9-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1379177,36.1146339,0.0 -115.1379311,36.1146263,0.0 -115.1379418,36.1146393,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBT</name>
+			<description><![CDATA[STRAIGHT ON E FLAMINGO]]></description>
+			<styleUrl>#line-3F5BA9-2</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13732760000002,36.1146555,0.0 -115.1377608,36.1146501,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-3F5BA9-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.1377514,36.1146642,0.0 -115.1377608,36.1146501,0.0 -115.1377487,36.1146382,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>NBL</name>
+			<description><![CDATA[LEFT ON S MARYLAND]]></description>
+			<styleUrl>#line-009D57-1</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13731689999999,36.1145689,0.0 -115.1374161,36.114571,0.0 -115.1375489,36.114571,0.0 -115.1376495,36.1145602,0.0 -115.13775409999998,36.1145385,0.0 -115.13781580000001,36.1145115,0.0 -115.13785330000002,36.1144573,0.0 -115.1378748,36.1144367,0.0 -115.13790430000002,36.1143836,0.0 -115.13791369999998,36.1143305,0.0 -115.13791640000001,36.1142699,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<styleUrl>#line-009D57-1-nodesc</styleUrl>
+			<ExtendedData>
+			</ExtendedData>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>-115.13790559999998,36.1142785,0.0 -115.13791640000001,36.1142699,0.0 -115.1379311,36.1142785,0.0</coordinates>
+			</LineString>
+		</Placemark>
+		<Style id='icon-503-DB4436-nodesc'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009D57-1-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>1</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009D57-1-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>2.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009D57-1'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-1-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-1-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009D57-1-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>1</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009D57-1-nodesc-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>2.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-009D57-1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009D57-2-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-009D57-2-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>3.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-009D57-2'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-2-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-2-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-009D57-3-nodesc-normal'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>3</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-009D57-3-nodesc-highlight'>
+			<LineStyle>
+				<color>ff579D00</color>
+				<width>5.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-009D57-3-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-009D57-3-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-009D57-3-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3F5BA9-1-nodesc-normal'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>1</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-3F5BA9-1-nodesc-highlight'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>2.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-3F5BA9-1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3F5BA9-1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3F5BA9-1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3F5BA9-2-normal'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3F5BA9-2-highlight'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>3.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3F5BA9-2'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3F5BA9-2-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3F5BA9-2-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-3F5BA9-3-normal'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-3F5BA9-3-highlight'>
+			<LineStyle>
+				<color>ffA95B3F</color>
+				<width>5.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-3F5BA9-3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-3F5BA9-3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-3F5BA9-3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-1-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>1</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-DB4436-1-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-DB4436-1-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-1-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-1-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-2-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>2</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-2-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-2'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-2-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-2-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-3-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-3-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>5.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-3'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-3-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-3-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-DB4436-4-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>4</width>
+			</LineStyle>
+		</Style>
+		<Style id='line-DB4436-4-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>6.0</width>
+			</LineStyle>
+		</Style>
+		<StyleMap id='line-DB4436-4'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-DB4436-4-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-DB4436-4-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-FFDD5E-1-255-nodesc-normal'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-FFDD5E-1-255-nodesc-highlight'>
+			<LineStyle>
+				<color>ff5EDDFF</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>FF5EDDFF</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-FFDD5E-1-255-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-FFDD5E-1-255-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-FFDD5E-1-255-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
